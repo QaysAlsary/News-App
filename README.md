@@ -1,16 +1,7 @@
 # news_app
 
-A new Flutter project.
+News App with an api from news api https://newsapi.org for bussienes,sport and sciense news and searching for articles with a WebView to view the web page for the news.
 
-## Getting Started
+dark/light theme.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bloc for state mangment.
